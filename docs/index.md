@@ -9,7 +9,6 @@ Only the owner of DDL knows the truth regarding how bad things are. Speaking fro
 Near the end of August 2023, DDL stopped selling robots. 
 
 !!! warning 
-
     This is not a good time to purchase a Vector robot. If you buy one now, setup will not be possible because there are no servers for the Vector app to interact with
 
 ## It's not all bad news
