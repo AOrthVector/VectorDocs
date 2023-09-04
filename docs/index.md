@@ -20,6 +20,6 @@ DDL made code publicly available that will allow Vector to function outside of D
 
 Wirepod is free, but it needs a device to run on. You will need to purchase something to run wire-pod or re-use an existing device.
 
-Vector owners comforatable with tech or willing to learn, can install wire=pod themselves via the instructions from the [wire-pod project](https://github.com/kercre123/wire-pod)
+Vector owners comforatable with tech or willing to learn, can install wire-pod themselves via the instructions from the [wire-pod project](https://github.com/kercre123/wire-pod)
 
 Owners who don't want to setup wire-pod themselves can purchase a mini computer with wire-pod already installed from [techshop82](https://techshop82.com/shop/wire-pod-server/)

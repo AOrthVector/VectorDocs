@@ -3,6 +3,7 @@ site_description: Vector Robot Resources
 
 nav:
   - Introduction: index.md
+  - Wirepod: index.md
 
 theme:
   name: material
