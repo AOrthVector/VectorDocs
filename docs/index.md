@@ -16,7 +16,7 @@ Near the end of August 2023, DDL stopped selling robots.
 
 DDL made code publicly available that will allow Vector to function outside of DDL servers. This code has been maintained and updated by a group of people on a project called [wire-pod](https://github.com/kercre123/wire-pod)
 
-### What wire-pod is and is not
+### Wire-pod
 
 Wirepod is free, but it needs a device to run on. You will need to purchase something to run wire-pod or re-use an existing device.
 
