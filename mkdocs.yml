@@ -3,13 +3,17 @@ site_description: Vector Robot Resources
 
 nav:
   - Introduction: index.md
-  - Wirepod: wirepod.md
+  - Wirepod:
+    - wirepod/index.md
+    - Troubleshooting: wirepod/setup/troubleshooting.md
 
 theme:
   name: material
   features:
     - navigation.tabs
     - navigation.sections
+    - navigation.expand
+    - navigation.indexes
     - toc.integrate
     - navigation.top
     - search.suggest
