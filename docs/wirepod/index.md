@@ -16,7 +16,7 @@
 You can interact with Vector normally such as
 
 *  Vector will respond to a request to a fistbump
-*  Vector will dance
+*  When commanded, Vector will dance. Well, maybe. Vector has always been cheeky about dancing on command. 
 *  Vector will react to greetings
 
 ### What's different about the Wire-pod setup?
@@ -35,7 +35,11 @@ Setup consists of the following steps
 
 If you have multiple Vectors you will go through the above steps for each Vector
 
-You can skip setting up weather or knowledge graph later. Just know that Vector won't respond correctly to questions about the weather or be able to answer questions
+Recovery mode is a special mode that allows Vector's firmware to be updated.
+
+Setting up weather or knowledge graph is optional. After your Vector is setup with wire-pod, you can come back at anytime to set weather and knowledge graph up
+
+Just know that Vector won't respond correctly to questions about the weather or be able to answer questions
 
 If you skip weather setup and ask Vector about the weather, Vector will respond but the answer you receive could be "inventive"
 
