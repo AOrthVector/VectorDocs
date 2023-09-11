@@ -9,8 +9,8 @@ nav:
     - Troubleshooting: wirepod/setup/troubleshooting.md
 
 theme:
+  logo: assets/logo.png
   name: material
-  logo: assets/images/VectorLogo.png
   features:
     - navigation.tabs
     - navigation.sections
