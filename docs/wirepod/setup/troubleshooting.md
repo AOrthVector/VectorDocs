@@ -25,6 +25,7 @@ Once Vector finished rebooting, the pairing process was tried again and this tim
 Things to try if pairing continues to fail:
 
 * Refresh the web page
+* Press Ctrl and F5 at the same time to clear browser cache
 * Use a different web browser
 
 Sometimes, Vector will leave pairing mode during the process. This is not abnormal and Vector can be put back into pairing mode
