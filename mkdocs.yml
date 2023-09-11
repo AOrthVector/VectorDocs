@@ -5,10 +5,12 @@ nav:
   - Introduction: index.md
   - Wirepod:
     - wirepod/index.md
+    - Setup: wirepod/setup/setup.md
     - Troubleshooting: wirepod/setup/troubleshooting.md
 
 theme:
   name: material
+  logo: assets/images/VectorLogo.png
   features:
     - navigation.tabs
     - navigation.sections
