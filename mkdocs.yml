@@ -16,6 +16,7 @@ theme:
   name: material
   features:
     - navigation.tabs
+    - navigation.tabs.sticky
     - navigation.sections
     - navigation.expand
     - navigation.indexes
@@ -28,6 +29,7 @@ theme:
     - content.code.copy
   language: en
   logo: logo.png
+  favicon: favicon.png
   palette:
     - scheme: default
 
