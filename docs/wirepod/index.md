@@ -52,3 +52,5 @@ Techshop 82 has two good videos showing the wire-pod Vector setup process
 [T95 mini wire-pod setup for Vector robot](https://youtu.be/mRSW7sxzuI4?si=oiSZEAQv-2yn9-cj)
 
 [Detailed steps T95 mini wire-pod setup for Vector robot](https://youtu.be/hzlI7hPU-BM?si=4nfDngRCIn8kaWU_)
+
+[](/GNU Terry Pratchett)

@@ -29,7 +29,7 @@ Vector's software needs to be updated to use wire-pod. You will put Vector in re
 
 Press the button on top of Vector and do not release until you see blue lights start to move up Vector's head
 
-Vector's screen will display either *anki.com/v or ddl.com/v*
+Vector's screen will display either *anki.com/v*
 
 Click on one of the links below to connect Vector to wire-pod
 
