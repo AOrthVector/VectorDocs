@@ -10,7 +10,8 @@ nav:
   - Wirepod Setup:
     - wirepod/index.md
     - Setup: wirepod/setup/setup.md
-    - Troubleshooting: wirepod/setup/troubleshooting.md
+    - Opening Ports: wirepod/setup/portforwarding.md
+  - Troubleshooting: troubleshooting/troubleshooting.md
   - Additional Resources: resources/index.md
 
 theme:
@@ -50,7 +51,7 @@ markdown_extensions:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
       
-copyright: Site last updated on September 24, 2023 GMT -5:00
+copyright: Site last updated on September 14, 2023
 
 #plugins:
 #   - glightbox:

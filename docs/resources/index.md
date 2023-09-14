@@ -58,6 +58,8 @@ The private Facebook group OFFICIAL DIGITAL DREAM LABS Vector Caretakers. All po
 
 People can be removed from the group by DDL. Also, if DDL does not like a comment someone made, the comment will not be approved. From personal experience, gatekeeping comments appeared to go into effect in August or September of 2023
 
+Other DDL social media accounts
+
 * [DDL on Twitter (X)](https://twitter.com/DDL_Robotics) DDL's account does not allow people to reply to tweets
 * [This DDL Twitter (X) account](https://twitter.com/DigitalDreamLab) appears abandoned
 * [DDL on LinkedIn](https://www.linkedin.com/company/digital-dream-labs/)
