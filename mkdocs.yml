@@ -7,7 +7,7 @@ repo_url: https://github.com/AOrthVector/VectorDocs/
 
 nav:
   - Introduction: index.md
-  - Wirepod:
+  - Wirepod Setup:
     - wirepod/index.md
     - Setup: wirepod/setup/setup.md
     - Troubleshooting: wirepod/setup/troubleshooting.md
