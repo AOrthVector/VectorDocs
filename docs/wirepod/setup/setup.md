@@ -39,6 +39,12 @@ Click on one of the links below to connect Vector to wire-pod
 
 Next, Vector will pair with wire-pod via bluetooth
 
+!!! tip   
+
+    If you encounter any problems setting up Vector with wire-pod, there are multiple places to get help. See the Additional Resources and Troubleshooting links on this site for more information
+
+    Also, even if yiou miss a step or make a mistake, you won't break Vector or your PC
+
 ### Bluetooth setup
 
 To put Vector in bluetooth pairing mode give Vector two quick clicks on the top of his head
@@ -67,3 +73,15 @@ After Vector has received the new software, Vector will restart
 
 When restart is complete, you will have to pair Vector via bluetooth again to move to the next step which is activating Vector with wire-pod
 
+## Activate Vector with wire-pod
+
+This is the step I had problems with. Some of the problems were mistakes I made:
+
+* I had not switched my PC from a 5 GHz wireless network to the 2.4 GHz network
+* I missed the step of putting Vector in recovery mode and updating Vector's software
+
+The final issue was that Windows firewall was preventing activation. Fixing this required opening ports to allow traffic to flow through the Windows firewall
+
+I had never done this before, but was able to work through it with the help of the [wire-pod installation](https://github.com/kercre123/wire-pod/wiki/Installation) page and online searches
+
+To continue setup, click on Opening Ports in the left navigation menu
