@@ -50,6 +50,8 @@ markdown_extensions:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
       
+copyright: Site last updated on September 24, 2023 GMT -5:00
+
 #plugins:
 #   - glightbox:
 #       touchNavigation: true
