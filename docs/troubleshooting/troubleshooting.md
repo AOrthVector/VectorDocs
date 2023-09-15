@@ -38,7 +38,7 @@ This was experienced multiple times. The "solution" was to keep trying to pair
 
 As you go through the setup process, the browser page display information that can be helpful when troubleshooting
 
-![the menu shows connection to wifi and bluetooth was successful The top right displays Vector's IDs, firmware version, and wifi network name](../../img/VectorPreWirepod.jpg)
+![the menu shows connection to wifi and bluetooth was successful The top right displays Vector's IDs, firmware version, and wifi network name](../img/VectorPreWirepod.jpg)
 
 The bluetooth and wifi indicators in the screen capture above are both green. This indicates that Vector is connected successfully using bluetooth and your 2.4 GHz wireless network
 
