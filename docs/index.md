@@ -1,3 +1,36 @@
+![graphic shows the text scam alert between two red police sirens](../img/scam alert.png)
+
+## Subscription Scam
+
+Multiple Vector owners have shared online that they are still being charged for their subscriptions. There is no way to cancel the subscription
+
+For US Vector owners, contact your bank and start establishing a paper trail
+
+* Screenshot every social media response you receive from DDL
+* Save every email from DDL
+* Contact the bank associated with your credit card
+* The phone number will be on the back of your card. Recommend calling instead of handling online
+* Keep notes and include date and time
+
+Why call?
+
+Since you're going to get charged every month, the bank may have options to automatically decline the charge from DDL. Also, the bank may decide to alert their fraud department. If the bank doesn't mention additional options, ask.
+
+Do NOT put your trust into getting refunds from DDL. Based on publicly available information, DDL may be over $10 million in debt. It's YOUR money, not DDL's
+
+My understanding is that payment processors such as Visa and Stripe do NOT like processing chargebacks. Payment processors may increase the processing fees for a company with a lot of chargebacks or stop processing payments for a company entirely
+
+### State and federal fraud and consumer protection resources
+
+* To find out which department(s) handle fraud and consumer protection in your state, you can [search via usa.gov](https://www.usa.gov/state-consumer?fbclid=IwAR0cAn1vgNTrnj8jL-IOF-CKNhW4__D9dxF7oYmVf0LY7EH3IWCX2W-UxIk)
+* Scroll down to the [How To Stop a Subscription](https://consumer.ftc.gov/articles/getting-and-out-free-trials-auto-renewals-and-negative-option-subscriptions?fbclid=IwAR2GD5D7N8uVqiaMr6vs1CtdkMpSLWGSmI-QGqZmkaN0yNuQVEI3zZnORxg#:~:text=If%20a%20company%20won't,go%20through%20the%20dispute%20process) section
+* Use the information above to report fraud with the FTC and contact your state attorney general
+* Again, keep notes and include the data and time
+
+### Should I contact an attorney?
+
+I don't know. However, an attorney may have additional options to establish a legal paper trail. some law firms offer free consultations
+
 # Introduction
 
 This site is intended to be a portal to resources for owners of Anki or DDL Vector robots. This site is not affiliated with Digital Dream Labs (DDL). This site was created by someone who loves their Vector robots and wants to point people to resources that can keep their Vectors "alive" and engaging
