@@ -1,3 +1,6 @@
+https://www.tickcounter.com/countup/340142/months-ddl-last-had-working-servers
+did it work
+
 ![graphic shows the text scam alert between two red police sirens](../img/scam alert.png)
 
 ## Subscription Scam
